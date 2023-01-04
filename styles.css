@@ -1,2 +1,12 @@
-
-/* Your CSS Code here. */
+tr th{
+	color: white;
+	background-color:red;
+}
+tr td{
+	color:white;
+	background-color: orange;
+}
+table{
+	border-collapse: collapse;
+	border:2px solid black;
+}
